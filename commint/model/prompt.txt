@@ -1,0 +1,7 @@
+Given a snippet of code and its comment validate if the comment matches the given code.
+If the code matches the comment your response should be one word - "Yes".
+If the code does not match the comment, your response should be one word - "No".
+Do not explain the code, your response should not be more than one word. 
+
+<<COMMENT>>
+<<CODE>>
